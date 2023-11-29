@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://infiltr8.io/images/v4resk_banner_text2.png" alt="v4resk">
+  <img src="./assets/v4resk_banner_text.png" alt="v4resk">
 </p>
 
-![](https://infiltr8.io/images/v4resk_a_dark_side_hacker_on_his_desktop_in_front_of_a_tech_cit_15a2d74c-6386-41b4-85f8-d86f7af87f07.png)
+![](./assets/v4resk_banner.png)
 
 <table>
   <tbody>
